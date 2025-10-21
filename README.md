@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=06d6a0&center=true&vCenter=true&width=435&lines=Xin+chào+các+bạn.+Mình+là+Huy;THPT+Gia+Lộc)](https://github.com/BeeNoANo)
 
 <!--
 **BeeNoANo/BeeNoANo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
